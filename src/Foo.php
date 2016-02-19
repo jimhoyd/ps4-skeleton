@@ -5,12 +5,11 @@ namespace App;
 class Foo implements FooInterface {
 
 	public function __construct() {
-		var_dump('ewewe');
-
+		echo('Hello World');
 	}
 
-	public function test() {
-
+	public function bar() {
+		return "Bar";
 	}
 
 

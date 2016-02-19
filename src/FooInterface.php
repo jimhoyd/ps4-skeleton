@@ -2,6 +2,6 @@
 
 interface FooInterface {
 
-	public function test();
+	public function bar();
 
 }

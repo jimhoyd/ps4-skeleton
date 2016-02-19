@@ -1,4 +1,19 @@
 {
+    "name": "jimhoyd/ps4Skeleton",
+    "type": "library",
+    "description": "ps4 Skeleton",
+    "keywords": [ "example" ],
+    "homepage": "https://github.com/jimhoyd/ps4Skeleton",
+    "license": "MIT",
+    "authors": [
+        { "name": "Jimmy Ho", "email": "jimhoyd@gmail.com" }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },	
+    "require-dev": {
+        "phpunit/phpunit": "dev-master"
+    },	
 	"autoload": {
 		"psr-4": {"App\\": "src/"}
 	}
