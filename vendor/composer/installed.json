@@ -1113,12 +1113,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/sebastianbergmann/phpunit.git",
-            "reference": "b0bce300b98d1b0f95bf7749d22bfced7747253e"
+            "reference": "1056087aa4e0973581b38d65d4ac9f5708a93b0d"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/b0bce300b98d1b0f95bf7749d22bfced7747253e",
-            "reference": "b0bce300b98d1b0f95bf7749d22bfced7747253e",
+            "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/1056087aa4e0973581b38d65d4ac9f5708a93b0d",
+            "reference": "1056087aa4e0973581b38d65d4ac9f5708a93b0d",
             "shasum": ""
         },
         "require": {
@@ -1148,7 +1148,7 @@
         "suggest": {
             "phpunit/php-invoker": "~1.1"
         },
-        "time": "2016-02-18 18:25:49",
+        "time": "2016-02-23 11:55:26",
         "bin": [
             "phpunit"
         ],
